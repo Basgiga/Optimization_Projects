@@ -25,7 +25,7 @@ A file (`ult.mod`) containing solutions to various problems, such as:
 - **Euclidian Point Assignment** (with variations like costs, designated points, etc.)
 - **Optimal Job Scheduling** (with variations like deadlines, start times, multiple machines, etc.)
 - **Shortest Path Optimization**
-- **Traveling Salesman Problem** (In Polish: Komiwojażer, a problem I enjoy :) )
+- **Traveling Salesman Problem** (In Polish we call it: Komiwojażer (co-me-voyager), and I love it :) )
 - **Hungarian Algorithm**
 - **Searching in a Set**
 - **Filling a Rectangle with Smaller Rectangles**
