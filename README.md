@@ -1,4 +1,4 @@
-1.Bartek_Borkowski_PPDp_Latin_Square:
+1. Bartek_Borkowski_PPDp_Latin_Square:
   This file includes Solution to Latin square problem using:
     CPLEX ILOG
     Simulated Annealing (heuristic)
@@ -6,7 +6,7 @@
     
   and also an raport on the problem, optimization problem and algorithms and which method should we use (with some important implementation notices) (In Polish)
 
-2.Bartek_Borkowski_PPDp_Kakuro:
+2. Bartek_Borkowski_PPDp_Kakuro:
   This file includes Solution to Kakuro problem using:
     CPLEX ILOG
     
