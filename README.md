@@ -1,33 +1,37 @@
-1. Bartek_Borkowski_PPDp_Latin_Square:
-  This file includes Solution to Latin square problem using:
-    CPLEX ILOG
-    Simulated Annealing (heuristic)
-    Tabu Search (heuristic)
-    
-  and also an raport on the problem, optimization problem and algorithms and which method should we use (with some important implementation notices) (In Polish)
+# Project Overview
 
-2. Bartek_Borkowski_PPDp_Kakuro:
-  This file includes Solution to Kakuro problem using:
-    CPLEX ILOG
-    
-  and also an raport on the problem, optimization problem and algorithms and which method should we use (with some important implementation notices) (In Polish)
+## 1. Bartek_Borkowski_PPDp_Latin_Square:
 
-3. Problems Solved:
-  a file (ult.mod) that consists of solutions to multiple problems such as:
-   euclidian point assignation (with some variations like costs, designated points etc etc)
-   
-   Optimal job scheduling (with some variations like deadlines, start time, multiple machines etc etc)
-   
-   Shortest path Optimization
-   
-   Traveling salesman problem (in poland we call it Komiwojażer and i love it (Komiwo) :) )
-   
-   Hungarian Algorithm
+This file includes solutions to the Latin Square problem using:
+- **CPLEX ILOG**
+- **Simulated Annealing** (heuristic)
+- **Tabu Search** (heuristic)
 
-   Searching in a Set
+Additionally, it includes a report on the problem, discussing the optimization problem and algorithms, and recommending the best method to use, along with important implementation notes. *(Report in Polish)*
 
-   Filling a rectangle with little rectangles
+---
 
-   Knapsack problem
+## 2. Bartek_Borkowski_PPDp_Kakuro:
 
-4. Little optimization projects i needed to conquer the Tribal Wars game :)).
+This file contains the solution to the Kakuro problem using:
+- **CPLEX ILOG**
+
+It also includes a report on the problem, the optimization process, and algorithms, with recommendations on which method to use, along with important implementation notes. *(Report in Polish)*
+
+---
+
+## 3. Problems Solved:
+A file (`ult.mod`) containing solutions to various problems, such as:
+- **Euclidian Point Assignment** (with variations like costs, designated points, etc.)
+- **Optimal Job Scheduling** (with variations like deadlines, start times, multiple machines, etc.)
+- **Shortest Path Optimization**
+- **Traveling Salesman Problem** (In Polish: Komiwojażer, a problem I enjoy :) )
+- **Hungarian Algorithm**
+- **Searching in a Set**
+- **Filling a Rectangle with Smaller Rectangles**
+- **Knapsack Problem**
+
+---
+
+## 4. Little Optimization Projects for Tribal Wars:
+Some small optimization projects I worked on to conquer the Tribal Wars game :)
